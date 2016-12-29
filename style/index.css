@@ -1,0 +1,25 @@
+body{
+	border-color: "black";
+	border-width: 2px;
+	border-style: solid;
+	padding-top: 100px;
+	padding-bottom: 200px;
+	height: 10%;
+	width: 100%;
+}
+#login{
+	color: black;
+	padding: 20px;
+}
+#div{
+	background-color: black;
+	color: white;
+	font-family: monospace;
+	width:33%;
+	padding:100px;
+	height:100px;
+}
+button{
+	float: right;
+	padding:50px;
+}

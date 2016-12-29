@@ -1,0 +1,45 @@
+
+body{
+	background-color: black;
+
+	padding: 20px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: blue;
+	float: left;
+	color: white;
+	width:95%;
+}
+#header{
+	width: 100%;
+	display: inline-block;
+	float: left;
+}
+#name{
+	float:left;
+	width:70%;
+}
+#logout{
+	float:right;
+	width:20%;
+}
+input[type="button"]{
+	float:left;
+	margin-top: 20px;
+}
+#container{
+	display: inline-block !important;
+	width:100%;
+	float: left;
+}
+
+div[id^="i"]{
+	width:300px;
+	display: inline-block !important;
+
+}
+img{
+	width:200px;
+	length:200px;
+	display: inline-block !important;
+}
